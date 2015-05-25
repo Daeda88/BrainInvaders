@@ -1,0 +1,18 @@
+The parallel port itself is initialized in CSpaceInvadersBCI.cpp, but see ParallelPort/ParallelPort.cpp for the actual code. It uses a library/dll that is not my own code, though im sure you can find it on google should you need it.
+
+Now, as for the messaging themselves. There are four different triggers, consisting of an unsigned integer. They are:
+
+0, 64, 128 and 192
+
+Now, as for the communication with the PP itself. In my code, they are mostly found in the GameScreen.cpp function update();
+
+This function considers the different states the game is in, and switches to a new one when a timer reaches some point. They call for functions to draw a row/column as a flash or to restore it to its original state. After that, the ppTag() function is called, with a corresponding trigger. Below you'll find the cases (as they were in the original BI-code) and the trigger sent.
+
+1) Flash an alien. Send Trigger 1.
+
+2) Unflash an alien. Send Trigger 0.
+
+3) When a repetition of the flashes (so start to flash all rows and columns) is started, the following sequence is send: Trigger 2, Trigger 0, with a full second between triggers (assuming this is for pausing.
+
+4) When the game supposedly ends, the Sequence Trigger 3, Trigger 0 is send, with a 100 ms pause between the triggers (which I'm assuming is for processing)
+

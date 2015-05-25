@@ -1,0 +1,10 @@
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_1_1.xnb
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_2_1.xnb
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_3_1.xnb
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_T.xnb
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\BrainInvadersLevelBuilder.exe
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\BrainInvadersLevelBuilder.pdb
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\obj\x86\Release\BrainInvadersLevelBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\obj\x86\Release\BrainInvadersLevelBuilder.exe
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\obj\x86\Release\BrainInvadersLevelBuilder.pdb

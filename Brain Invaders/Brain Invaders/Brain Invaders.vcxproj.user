@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>..\..\..\..\..\..\..\SourceCode\openvibe-0.13.1-svn3210-src\dist</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerEnvironment>ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Gijs\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DAEDA
+ComSpec=C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\Gijs
+INCLUDE=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\openal\\include;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\freealut\include;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\boost;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\include;
+LIB=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\freealut\lib;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\openal\\libs\Win32;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\lib;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\boost\lib;
+LOCALAPPDATA=C:\Users\Gijs\AppData\Local
+LOGONSERVER=\\DAEDA
+NUMBER_OF_PROCESSORS=2
+OGRE_HOME=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\ogre
+OnlineServices=Online Services
+OpenViBE=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe\trunc
+OpenViBE_applications=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-applications
+OpenViBE_application_!OpenViBE_project_name!=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-applications\vrpn-simulator\trunc
+OpenViBE_application_!OpenViBE_project_name!_branch=trunc
+OpenViBE_base=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..
+OpenViBE_branch=trunc
+OpenViBE_build_order=OpenViBE_build_order.txt
+OpenViBE_cmake_modules=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\cmake-modules
+OpenViBE_default_branch=trunc
+OpenViBE_documentation=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-documentation\trunc
+OpenViBE_documentation_branch=trunc
+OpenViBE_externals=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-externals
+OpenViBE_kernel=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-kernel-omk\trunc
+OpenViBE_kernel_branch=trunc
+OpenViBE_modules=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-modules
+OpenViBE_module_!OpenViBE_project_name!=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-modules\xml\trunc
+OpenViBE_module_!OpenViBE_project_name!_branch=trunc
+OpenViBE_percent=%
+OpenViBE_plugins=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-plugins
+OpenViBE_plugin_!OpenViBE_project_name!=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-plugins\vrpn\trunc
+OpenViBE_plugin_!OpenViBE_project_name!_branch=trunc
+OpenViBE_project_name=!OpenViBE_project_name:-=_!
+OpenViBE_scenarios=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-scenarios\trunc
+OpenViBE_scenarios_branch=trunc
+OpenViBE_toolkit=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\openvibe-toolkit\trunc
+OpenViBE_toolkit_branch=trunc
+OS=Windows_NT
+OV_DEP_ALUT=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\freealut
+OV_DEP_BOOST=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\boost
+OV_DEP_CEGUI=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\cegui
+OV_DEP_CMAKE=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\cmake\cmake-2.8.2-win32-x86
+OV_DEP_EXPAT=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\expat
+OV_DEP_GTK=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\gtk
+OV_DEP_ITPP=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\itpp
+OV_DEP_LUA=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\lua
+OV_DEP_MSSDK=C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\
+OV_DEP_OGG=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\libogg
+OV_DEP_OGRE=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\ogre
+OV_DEP_OPENAL=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\openal\
+OV_DEP_VORBIS=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\libvorbis
+OV_DEP_VRPN=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\vrpn
+Path=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\libvorbis\win32\bin\debug;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\libvorbis\win32\bin\release;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\libogg\win32\bin\debug;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\libogg\win32\bin\release;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\openal\\libs\Win32;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\freealut\lib;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\lua\lib;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\cegui\bin;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\ogre\bin\release;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\ogre\bin\debug;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\itpp\bin;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\expat\bin;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\cmake\cmake-2.8.2-win32-x86\bin;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\gtk\bin;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\boost\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\freealut\lib;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\openal\\libs\Win32;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\lib;C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\boost\lib;;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PCBRAND=Pavilion
+PKG_CONFIG_PATH=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\gtk\lib\pkgconfig
+Platform=MCD
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=170a
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\Gijs\AppData\Local\Temp
+TMP=C:\Users\Gijs\AppData\Local\Temp
+TouchAppsTargetDir=C:\Program Files (x86)\Microsoft Touch Pack for Windows 7\
+USERDOMAIN=Daeda
+USERNAME=Gijs
+USERPROFILE=C:\Users\Gijs
+VRPNROOT=C:\SourceCode\openvibe-0.13.1-svn3210-src\scripts\..\dependencies\vrpn
+VS100COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\
+windir=C:\Windows
+XNAGSShared=C:\Program Files (x86)\Common Files\Microsoft Shared\XNA\
+XNAGSv4=C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

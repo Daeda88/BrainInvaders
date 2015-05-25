@@ -1,0 +1,191 @@
+﻿Build started 23-3-2012 18:00:22.
+     1>Project "C:\Users\Gijs\Documents\Visual Studio 2010\Projects\Brain Invaders\Brain Invaders\Brain Invaders.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Gijs\Documents\Visual Studio 2010\Projects\Brain Invaders\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Brain Invaders.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Brain Invaders.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Brain Invaders.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Brain Invaders.cpp" ovaCAbstractVrpnPeripheral.cpp ovavrdCOgreVRApplication.cpp SpaceInvadersBCI\Alien.cpp SpaceInvadersBCI\AlienBlock.cpp SpaceInvadersBCI\GameScreen.cpp SpaceInvadersBCI\GUIScreen.cpp SpaceInvadersBCI\CSpaceInvadersBCI.cpp SpaceInvadersBCI\SoundManager.cpp SpaceInvadersBCI\SpaceInvadersScreen.cpp tinyxml\tinystr.cpp tinyxml\tinyxml.cpp tinyxml\tinyxmlerror.cpp tinyxml\tinyxmlparser.cpp
+         Brain Invaders.cpp
+     1>Brain Invaders.cpp(1): warning C4627: '#include "ovavrdCOgreVRApplication.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>Brain Invaders.cpp(2): warning C4627: '#include "SpaceInvadersBCI\CSpaceInvadersBCI.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>Brain Invaders.cpp(100): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         ovaCAbstractVrpnPeripheral.cpp
+     1>ovaCAbstractVrpnPeripheral.cpp(1): warning C4627: '#include "ovaCAbstractVrpnPeripheral.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovaCAbstractVrpnPeripheral.cpp(3): warning C4627: '#include <vrpn_Tracker.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovaCAbstractVrpnPeripheral.cpp(4): warning C4627: '#include <vrpn_Button.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovaCAbstractVrpnPeripheral.cpp(5): warning C4627: '#include <vrpn_Analog.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovaCAbstractVrpnPeripheral.cpp(80): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         ovavrdCOgreVRApplication.cpp
+     1>ovavrdCOgreVRApplication.cpp(1): warning C4627: '#include "ovavrdCOgreVRApplication.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovavrdCOgreVRApplication.cpp(3): warning C4627: '#include <system/Time.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovavrdCOgreVRApplication.cpp(5): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovavrdCOgreVRApplication.cpp(7): warning C4627: '#include <vrpn_Tracker.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovavrdCOgreVRApplication.cpp(8): warning C4627: '#include <vrpn_Button.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovavrdCOgreVRApplication.cpp(9): warning C4627: '#include <vrpn_Analog.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>ovavrdCOgreVRApplication.cpp(379): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         Alien.cpp
+     1>SpaceInvadersBCI\Alien.cpp(1): warning C4627: '#include "Alien.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\Alien.cpp(4): warning C4627: '#include <Ogre.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\Alien.cpp(7): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\Alien.cpp(8): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\Alien.cpp(93): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         AlienBlock.cpp
+     1>SpaceInvadersBCI\AlienBlock.cpp(1): warning C4627: '#include "AlienBlock.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\AlienBlock.cpp(2): warning C4627: '#include "Alien.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\AlienBlock.cpp(5): warning C4627: '#include <Ogre.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\AlienBlock.cpp(8): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\AlienBlock.cpp(9): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\AlienBlock.cpp(163): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         GameScreen.cpp
+     1>SpaceInvadersBCI\GameScreen.cpp(1): warning C4627: '#include "GameScreen.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(2): warning C4627: '#include "CSpaceInvadersBCI.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(3): warning C4627: '#include "AlienBlock.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(6): warning C4627: '#include <Ogre.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(7): warning C4627: '#include <OgreFont.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(8): warning C4627: '#include <OgreFontManager.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(11): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(12): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(13): warning C4627: '#include <string.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(14): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(15): warning C4627: '#include <time.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(18): warning C4627: '#include "../tinyxml/tinyxml.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GameScreen.cpp(360): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         GUIScreen.cpp
+     1>SpaceInvadersBCI\GUIScreen.cpp(1): warning C4627: '#include "GUIScreen.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(2): warning C4627: '#include "CSpaceInvadersBCI.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(5): warning C4627: '#include <Ogre.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(6): warning C4627: '#include <OgreFont.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(7): warning C4627: '#include <OgreFontManager.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(8): warning C4627: '#include <CEGUI.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(9): warning C4627: '#include <OIS.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(12): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(13): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\GUIScreen.cpp(72): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         CSpaceInvadersBCI.cpp
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(1): warning C4627: '#include "CSpaceInvadersBCI.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(2): warning C4627: '#include "GUIScreen.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(3): warning C4627: '#include "GameScreen.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(4): warning C4627: '#include "SpaceInvadersScreen.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(7): warning C4627: '#include <Ogre.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(8): warning C4627: '#include <OgreFont.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(9): warning C4627: '#include <OgreFontManager.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(14): warning C4627: '#include "../PortParallele/stdafx.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(16): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(17): warning C4627: '#include <windows.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\CSpaceInvadersBCI.cpp(97): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         SoundManager.cpp
+     1>SpaceInvadersBCI\SoundManager.cpp(1): warning C4627: '#include "SoundManager.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SoundManager.cpp(4): warning C4627: '#include <al.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SoundManager.cpp(5): warning C4627: '#include <alc.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SoundManager.cpp(6): warning C4627: '#include <AL/alut.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SoundManager.cpp(8): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SoundManager.cpp(101): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         SpaceInvadersScreen.cpp
+     1>SpaceInvadersBCI\SpaceInvadersScreen.cpp(1): warning C4627: '#include "CSpaceInvadersBCI.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SpaceInvadersScreen.cpp(2): warning C4627: '#include "SpaceInvadersScreen.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SpaceInvadersScreen.cpp(5): warning C4627: '#include <Ogre.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SpaceInvadersScreen.cpp(6): warning C4627: '#include <OgreFont.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SpaceInvadersScreen.cpp(7): warning C4627: '#include <OgreFontManager.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SpaceInvadersScreen.cpp(10): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>SpaceInvadersBCI\SpaceInvadersScreen.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         tinystr.cpp
+     1>tinyxml\tinystr.cpp(27): warning C4627: '#include "tinystr.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinystr.cpp(112): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         tinyxml.cpp
+     1>tinyxml\tinyxml.cpp(25): warning C4627: '#include <ctype.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxml.cpp(28): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxml.cpp(29): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxml.cpp(32): warning C4627: '#include "tinyxml.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxml.cpp(1888): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         tinyxmlerror.cpp
+     1>tinyxml\tinyxmlerror.cpp(25): warning C4627: '#include "tinyxml.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxmlerror.cpp(53): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         tinyxmlparser.cpp
+     1>tinyxml\tinyxmlparser.cpp(25): warning C4627: '#include <ctype.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxmlparser.cpp(26): warning C4627: '#include <stddef.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxmlparser.cpp(28): warning C4627: '#include "tinyxml.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxmlparser.cpp(33): warning C4627: '#include <windows.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>tinyxml\tinyxmlparser.cpp(36): warning C4005: 'TIXML_LOG' : macro redefinition
+                 tinyxml\tinyxmlparser.cpp(34) : see previous definition of 'TIXML_LOG'
+     1>tinyxml\tinyxmlparser.cpp(1640): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+     1>Done Building Project "C:\Users\Gijs\Documents\Visual Studio 2010\Projects\Brain Invaders\Brain Invaders\Brain Invaders.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.26

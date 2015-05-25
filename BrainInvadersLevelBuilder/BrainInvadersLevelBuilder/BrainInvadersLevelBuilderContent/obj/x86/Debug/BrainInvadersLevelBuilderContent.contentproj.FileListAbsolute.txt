@@ -1,0 +1,2 @@
+C:\Users\Gijs\Documents\Visual Studio 2010\Projects\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilderContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilderContent\obj\x86\Debug\BrainInvadersLevelBuilderContent.contentprojResolveAssemblyReference.cache

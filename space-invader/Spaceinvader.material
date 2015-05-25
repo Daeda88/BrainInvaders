@@ -1,0 +1,855 @@
+ material Spaceinvader/Alien_0_0_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_1.png 2.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_0_0_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_0_1_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_0_1_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_0_T
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+
+material Spaceinvader/Alien_1_0_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_1_0_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_1_1_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_1_1_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+  material Spaceinvader/Alien_1_T
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_2_0_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_2_0_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_2_1_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_2_1_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 1 1
+             }
+         }
+     }
+ }
+ 
+  material Spaceinvader/Alien_2_T
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0.4 0.4 0.4
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_3_0_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 0 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_3_0_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_3_1_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 0 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_3_1_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_3_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 0 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+  material Spaceinvader/Alien_3_T
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_T.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 0 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_4_0_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_1.png 2.5
+				 colour_op_ex source1 src_manual src_current 1 0 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_4_0_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_4_1_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 0 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_4_1_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 0 1 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_4_T
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_1_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 0 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_5_0_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_1.png 2.5
+				 colour_op_ex source1 src_manual src_current 1 0 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_5_0_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 0 1 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_5_1_U
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 0 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_5_1_F
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_2.png 1.5
+				 colour_op_ex source1 src_manual src_current 0 1 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+ material Spaceinvader/Alien_5_T
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/Alien_2_1.png 1.5
+				 colour_op_ex source1 src_manual src_current 1 0 1
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+material Spaceinvader/Explosion
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+ 
+            	ambient 1 1 1 1
+             	diffuse 1 1 1 1
+             	specular 0 0 0 0
+             	emissive 0 0 0 
+
+             	scene_blend alpha_blend
+             	depth_write off
+
+			texture_unit
+			{
+				texture Resources/game/Explosion.png
+				tex_coord_set 0
+			}
+		}
+	}
+}
+
+ material Spaceinvader/FullDot
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/target.png 2.5
+				 colour_op_ex source1 src_manual src_current 1 1 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }
+ 
+  material Spaceinvader/EmptyDot
+ {
+     technique
+     {
+         pass
+         {
+             lighting off
+ 
+             ambient 1 1 1 1
+             diffuse 1 1 1 1
+             specular 0 0 0 0
+             emissive 0 0 0 
+
+             scene_blend alpha_blend
+             depth_write off
+
+             texture_unit
+             {
+                 texture Resources/game/target.png 2.5
+				 colour_op_ex source1 src_manual src_current 1 0.2 0
+			tex_coord_set 0
+             }
+         }
+     }
+ }

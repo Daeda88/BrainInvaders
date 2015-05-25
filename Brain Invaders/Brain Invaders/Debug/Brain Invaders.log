@@ -1,0 +1,76 @@
+﻿Build started 23-3-2012 18:10:54.
+     1>Project "C:\Users\Gijs\Documents\Visual Studio 2010\Projects\Brain Invaders\Brain Invaders\Brain Invaders.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Touching "Debug\Brain Invaders.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\..\..\..\..\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\OpenViBE-vr-demo-dynamic.exe" /INCREMENTAL /NOLOGO "libboost_thread-vc100-mt-gd-1_42.lib" OgreMain.lib CEGUIBase.lib vrpn.lib OIS.lib CEGUIOgreRenderer.lib "OpenViBE-module-System-dynamic.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenViBE-vr-demo-dynamic.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\OpenViBE-vr-demo-dynamic.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\..\..\..\..\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\OpenViBE-vr-demo-dynamic.lib" /MACHINE:X86 "Debug\Brain Invaders.res"
+         "Debug\OpenViBE-vr-demo-dynamic.exe.embed.manifest.res"
+         "Debug\Brain Invaders.obj"
+         Debug\ovaCAbstractVrpnPeripheral.obj
+         Debug\ovavrdCOgreVRApplication.obj
+         Debug\Alien.obj
+         Debug\AlienBlock.obj
+         Debug\GameScreen.obj
+         Debug\GUIScreen.obj
+         Debug\CSpaceInvadersBCI.obj
+         Debug\SoundManager.obj
+         Debug\SpaceInvadersScreen.obj
+         Debug\stdafx.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>vrpn.lib(vrpn_Analog.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Analog.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_BaseClass.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_BaseClass.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Button.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Button.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Connection.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Connection.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_FileConnection.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_FileConnection.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Serial.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Serial.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Shared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Shared.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OpenViBE-vr-demo-dynamic.exe.embed.manifest" /manifest "Debug\OpenViBE-vr-demo-dynamic.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OpenViBE-vr-demo-dynamic.exe.embed.manifest.res" Debug\OpenViBE-vr-demo-dynamic_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\..\..\..\..\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\OpenViBE-vr-demo-dynamic.exe" /INCREMENTAL /NOLOGO "libboost_thread-vc100-mt-gd-1_42.lib" OgreMain.lib CEGUIBase.lib vrpn.lib OIS.lib CEGUIOgreRenderer.lib "OpenViBE-module-System-dynamic.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenViBE-vr-demo-dynamic.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\OpenViBE-vr-demo-dynamic.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\..\..\..\..\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\OpenViBE-vr-demo-dynamic.lib" /MACHINE:X86 "Debug\Brain Invaders.res"
+         "Debug\OpenViBE-vr-demo-dynamic.exe.embed.manifest.res"
+         "Debug\Brain Invaders.obj"
+         Debug\ovaCAbstractVrpnPeripheral.obj
+         Debug\ovavrdCOgreVRApplication.obj
+         Debug\Alien.obj
+         Debug\AlienBlock.obj
+         Debug\GameScreen.obj
+         Debug\GUIScreen.obj
+         Debug\CSpaceInvadersBCI.obj
+         Debug\SoundManager.obj
+         Debug\SpaceInvadersScreen.obj
+         Debug\stdafx.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>vrpn.lib(vrpn_Analog.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Analog.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_BaseClass.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_BaseClass.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Button.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Button.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Connection.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Connection.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_FileConnection.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_FileConnection.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Serial.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Serial.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+     1>vrpn.lib(vrpn_Shared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'vrpn.lib(vrpn_Shared.obj)' or at 'C:\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\vc100.pdb'; linking object as if no debug info
+         Brain Invaders.vcxproj -> C:\Users\Gijs\Documents\Visual Studio 2010\Projects\Brain Invaders\Brain Invaders\..\..\..\..\..\..\..\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin\OpenViBE-vr-demo-dynamic.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Brain Invaders.unsuccessfulbuild".
+         Touching "Debug\Brain Invaders.lastbuildstate".
+     1>Done Building Project "C:\Users\Gijs\Documents\Visual Studio 2010\Projects\Brain Invaders\Brain Invaders\Brain Invaders.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.85

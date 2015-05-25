@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Alien_1_1.png</Source>
+      <Name>Alien_1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_1_1.xnb</Output>
+      <Time>2012-03-26T10:36:21+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien_2_1.png</Source>
+      <Name>Alien_2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_2_1.xnb</Output>
+      <Time>2012-04-10T10:39:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien_3_1.png</Source>
+      <Name>Alien_3_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_3_1.xnb</Output>
+      <Time>2012-04-10T10:39:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien_T.png</Source>
+      <Name>Alien_T</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\Alien_T.xnb</Output>
+      <Time>2012-04-10T10:39:10+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{12EC5700-0783-476D-87A4-3801A05A3219}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilderContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Gijs\Dropbox\BrainInvaders\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\BrainInvadersLevelBuilder\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-06T17:08:00.9419471+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

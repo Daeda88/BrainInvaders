@@ -1,0 +1,671 @@
+Flash Time: 100 ms
+ Current ISI: 637.173 ms
+Start Repetition 0 at 10792 ms
+Begin Flash at 10792 ms
+End Flash at 10907 ms
+Expect New Flash at 11544.2 ms
+Begin Flash at 11573 ms
+End Flash at 11687 ms
+Expect New Flash at 11757.4 ms
+Begin Flash at 11771 ms
+End Flash at 11888 ms
+Expect New Flash at 12279 ms
+Begin Flash at 12289 ms
+End Flash at 12406 ms
+Expect New Flash at 12538.1 ms
+Begin Flash at 12556 ms
+End Flash at 12672 ms
+Expect New Flash at 12922.5 ms
+Begin Flash at 12938 ms
+End Flash at 13054 ms
+Expect New Flash at 13518.8 ms
+Begin Flash at 13522 ms
+End Flash at 13638 ms
+Expect New Flash at 14086.2 ms
+Begin Flash at 14107 ms
+End Flash at 14225 ms
+Expect New Flash at 14946 ms
+Begin Flash at 14956 ms
+End Flash at 15071 ms
+Expect New Flash at 15427.2 ms
+Begin Flash at 15427 ms
+End Flash at 15543 ms
+Expect New Flash at 16374.2 ms
+Begin Flash at 16405 ms
+End Flash at 16522 ms
+Expect New Flash at 17035.4 ms
+Begin Flash at 17039 ms
+End Repetion
+
+
+End Flash at 17157 ms
+Expect New Flash at 17531.1 ms
+Start Repetition 1 at 21161 ms
+Begin Flash at 21161 ms
+End Flash at 21274 ms
+Expect New Flash at 21648.1 ms
+Begin Flash at 21671 ms
+End Flash at 21789 ms
+Expect New Flash at 21870.5 ms
+Begin Flash at 21889 ms
+End Flash at 22004 ms
+Expect New Flash at 22961.2 ms
+Begin Flash at 22972 ms
+End Flash at 23088 ms
+Expect New Flash at 23375.4 ms
+Begin Flash at 23390 ms
+End Flash at 23504 ms
+Expect New Flash at 23555.7 ms
+Begin Flash at 23571 ms
+End Flash at 23699 ms
+Expect New Flash at 24445.2 ms
+Begin Flash at 24453 ms
+End Flash at 24572 ms
+Expect New Flash at 24712 ms
+Begin Flash at 24722 ms
+End Flash at 24836 ms
+Expect New Flash at 25087.3 ms
+Begin Flash at 25115 ms
+End Flash at 25223 ms
+Expect New Flash at 26216.7 ms
+Begin Flash at 26226 ms
+End Flash at 26338 ms
+Expect New Flash at 26685.1 ms
+Begin Flash at 26691 ms
+End Flash at 26805 ms
+Expect New Flash at 27257.9 ms
+Begin Flash at 27261 ms
+End Repetion
+
+
+End Flash at 27378 ms
+Expect New Flash at 27584 ms
+Start Repetition 2 at 31393 ms
+Begin Flash at 31393 ms
+End Flash at 31510 ms
+Expect New Flash at 31716 ms
+Begin Flash at 31740 ms
+End Flash at 31853 ms
+Expect New Flash at 32090.2 ms
+Begin Flash at 32108 ms
+End Flash at 32222 ms
+Expect New Flash at 33135.8 ms
+Begin Flash at 33140 ms
+End Flash at 33252 ms
+Expect New Flash at 33706.7 ms
+Begin Flash at 33721 ms
+End Flash at 33837 ms
+Expect New Flash at 33943.8 ms
+Begin Flash at 33959 ms
+End Flash at 34079 ms
+Expect New Flash at 34139 ms
+Begin Flash at 34140 ms
+End Flash at 34255 ms
+Expect New Flash at 34327.6 ms
+Begin Flash at 34338 ms
+End Flash at 34455 ms
+Expect New Flash at 35359.1 ms
+Begin Flash at 35372 ms
+End Flash at 35488 ms
+Expect New Flash at 36377.3 ms
+Begin Flash at 36389 ms
+End Flash at 36506 ms
+Expect New Flash at 37042 ms
+Begin Flash at 37056 ms
+End Flash at 37171 ms
+Expect New Flash at 37555.3 ms
+Begin Flash at 37562 ms
+End Repetion
+
+
+End Flash at 37667 ms
+Expect New Flash at 37963.8 ms
+Start Repetition 3 at 41679 ms
+Begin Flash at 41692 ms
+End Flash at 41813 ms
+Expect New Flash at 42109.8 ms
+Begin Flash at 42123 ms
+End Flash at 42238 ms
+Expect New Flash at 42939.3 ms
+Begin Flash at 42957 ms
+End Flash at 43071 ms
+Expect New Flash at 43132.2 ms
+Begin Flash at 43139 ms
+End Flash at 43255 ms
+Expect New Flash at 43908.7 ms
+Begin Flash at 43910 ms
+End Flash at 44024 ms
+Expect New Flash at 44450.2 ms
+Begin Flash at 44473 ms
+End Flash at 44589 ms
+Expect New Flash at 45415.1 ms
+Begin Flash at 45421 ms
+End Flash at 45536 ms
+Expect New Flash at 46418.4 ms
+Begin Flash at 46439 ms
+End Flash at 46554 ms
+Expect New Flash at 47085.6 ms
+Begin Flash at 47078 ms
+End Flash at 47192 ms
+Expect New Flash at 47576.2 ms
+Begin Flash at 47606 ms
+End Flash at 47721 ms
+Expect New Flash at 48018.2 ms
+Begin Flash at 48039 ms
+End Flash at 48154 ms
+Expect New Flash at 48393.4 ms
+Begin Flash at 48405 ms
+End Repetion
+
+
+End Flash at 48522 ms
+Expect New Flash at 48721.5 ms
+Start Repetition 4 at 52525 ms
+Begin Flash at 52537 ms
+End Flash at 52666 ms
+Expect New Flash at 52865.5 ms
+Begin Flash at 52871 ms
+End Flash at 52988 ms
+Expect New Flash at 53643.9 ms
+Begin Flash at 53643 ms
+End Flash at 53759 ms
+Expect New Flash at 54457.4 ms
+Begin Flash at 54489 ms
+End Flash at 54604 ms
+Expect New Flash at 54705.8 ms
+Begin Flash at 54715 ms
+End Flash at 54821 ms
+Expect New Flash at 55142 ms
+Begin Flash at 55157 ms
+End Flash at 55270 ms
+Expect New Flash at 55892.6 ms
+Begin Flash at 55905 ms
+End Flash at 56020 ms
+Expect New Flash at 56725.3 ms
+Begin Flash at 56747 ms
+End Flash at 56855 ms
+Expect New Flash at 57318.2 ms
+Begin Flash at 57321 ms
+End Flash at 57437 ms
+Expect New Flash at 57648.5 ms
+Begin Flash at 57662 ms
+End Flash at 57766 ms
+Expect New Flash at 58060.4 ms
+Begin Flash at 58053 ms
+End Flash at 58173 ms
+Expect New Flash at 58413.7 ms
+Begin Flash at 58440 ms
+End Repetion
+
+
+End Flash at 58557 ms
+Expect New Flash at 58756.6 ms
+Start Repetition 5 at 62560 ms
+Begin Flash at 62570 ms
+End Flash at 62697 ms
+Expect New Flash at 62896.6 ms
+Begin Flash at 62909 ms
+End Flash at 63059 ms
+Expect New Flash at 63431.2 ms
+Begin Flash at 63408 ms
+End Flash at 63522 ms
+Expect New Flash at 63825.1 ms
+Begin Flash at 63828 ms
+End Flash at 63943 ms
+Expect New Flash at 64250.3 ms
+Begin Flash at 64270 ms
+End Flash at 64390 ms
+Expect New Flash at 65373.1 ms
+Begin Flash at 65390 ms
+End Flash at 65507 ms
+Expect New Flash at 66434.9 ms
+Begin Flash at 66441 ms
+End Flash at 66554 ms
+Expect New Flash at 67103.3 ms
+Begin Flash at 67125 ms
+End Flash at 67241 ms
+Expect New Flash at 67631.8 ms
+Begin Flash at 67642 ms
+End Flash at 67756 ms
+Expect New Flash at 68058.1 ms
+Begin Flash at 68061 ms
+End Flash at 68176 ms
+Expect New Flash at 68419.6 ms
+Begin Flash at 68442 ms
+End Flash at 68556 ms
+Expect New Flash at 68758.8 ms
+Begin Flash at 68775 ms
+End Repetion
+
+
+End Flash at 68891 ms
+Expect New Flash at 69062.8 ms
+Start Repetition 6 at 72893 ms
+Begin Flash at 72905 ms
+End Flash at 73030 ms
+Expect New Flash at 73201.8 ms
+Begin Flash at 73208 ms
+End Flash at 73320 ms
+Expect New Flash at 73927.9 ms
+Begin Flash at 73938 ms
+End Flash at 74047 ms
+Expect New Flash at 74125.5 ms
+Begin Flash at 74127 ms
+End Flash at 74242 ms
+Expect New Flash at 74884.5 ms
+Begin Flash at 74908 ms
+End Flash at 75023 ms
+Expect New Flash at 75079.1 ms
+Begin Flash at 75091 ms
+End Flash at 75205 ms
+Expect New Flash at 75334.7 ms
+Begin Flash at 75342 ms
+End Flash at 75456 ms
+Expect New Flash at 76043 ms
+Begin Flash at 76058 ms
+End Flash at 76170 ms
+Expect New Flash at 76847 ms
+Begin Flash at 76856 ms
+End Flash at 76972 ms
+Expect New Flash at 77426.4 ms
+Begin Flash at 77428 ms
+End Flash at 77542 ms
+Expect New Flash at 77881.9 ms
+Begin Flash at 77906 ms
+End Flash at 78020 ms
+Expect New Flash at 78289.5 ms
+Begin Flash at 78307 ms
+End Repetion
+
+
+End Flash at 78423 ms
+Expect New Flash at 78557 ms
+Start Repetition 7 at 82425 ms
+Begin Flash at 82438 ms
+End Flash at 82564 ms
+Expect New Flash at 82698 ms
+Begin Flash at 82707 ms
+End Flash at 82832 ms
+Expect New Flash at 82889.7 ms
+Begin Flash at 82923 ms
+End Flash at 83004 ms
+Expect New Flash at 83057.9 ms
+Begin Flash at 83073 ms
+End Flash at 83189 ms
+Expect New Flash at 83336.6 ms
+Begin Flash at 83357 ms
+End Flash at 83473 ms
+Expect New Flash at 83568.1 ms
+Begin Flash at 83570 ms
+End Flash at 83674 ms
+Expect New Flash at 83727.2 ms
+Begin Flash at 83757 ms
+End Flash at 83872 ms
+Expect New Flash at 83937.4 ms
+Begin Flash at 83956 ms
+End Flash at 84072 ms
+Expect New Flash at 84913.1 ms
+Begin Flash at 84922 ms
+End Flash at 85038 ms
+Expect New Flash at 85140.7 ms
+Begin Flash at 85143 ms
+End Flash at 85258 ms
+Expect New Flash at 85579.9 ms
+Begin Flash at 85615 ms
+End Flash at 85721 ms
+Expect New Flash at 86579 ms
+Begin Flash at 86588 ms
+End Repetion
+
+
+End Flash at 86705 ms
+Expect New Flash at 87233.3 ms
+Start Repetition 8 at 90708 ms
+Begin Flash at 90720 ms
+End Flash at 90832 ms
+Expect New Flash at 91360.3 ms
+Begin Flash at 91388 ms
+End Flash at 91504 ms
+Expect New Flash at 92140.8 ms
+Begin Flash at 92148 ms
+End Flash at 92257 ms
+Expect New Flash at 92368.4 ms
+Begin Flash at 92387 ms
+End Flash at 92504 ms
+Expect New Flash at 92627.9 ms
+Begin Flash at 92638 ms
+End Flash at 92753 ms
+Expect New Flash at 93100.5 ms
+Begin Flash at 93107 ms
+End Flash at 93222 ms
+Expect New Flash at 93472.8 ms
+Begin Flash at 93489 ms
+End Flash at 93606 ms
+Expect New Flash at 93915.6 ms
+Begin Flash at 93921 ms
+End Flash at 94036 ms
+Expect New Flash at 94383.7 ms
+Begin Flash at 94379 ms
+End Flash at 94491 ms
+Expect New Flash at 95039 ms
+Begin Flash at 95057 ms
+End Flash at 95171 ms
+Expect New Flash at 95231 ms
+Begin Flash at 95240 ms
+End Flash at 95355 ms
+Expect New Flash at 95994.8 ms
+Begin Flash at 96005 ms
+End Repetion
+
+
+End Flash at 96122 ms
+Expect New Flash at 96840.9 ms
+Start Repetition 9 at 100127 ms
+Begin Flash at 100138 ms
+End Flash at 100249 ms
+Expect New Flash at 100968 ms
+Begin Flash at 100999 ms
+End Flash at 101107 ms
+Expect New Flash at 101167 ms
+Begin Flash at 101171 ms
+End Flash at 101288 ms
+Expect New Flash at 101343 ms
+Begin Flash at 101358 ms
+End Flash at 101470 ms
+Expect New Flash at 101604 ms
+Begin Flash at 101626 ms
+End Flash at 101748 ms
+Expect New Flash at 102536 ms
+Begin Flash at 102528 ms
+End Flash at 102642 ms
+Expect New Flash at 103245 ms
+Begin Flash at 103274 ms
+End Flash at 103389 ms
+Expect New Flash at 103547 ms
+Begin Flash at 103559 ms
+End Flash at 103674 ms
+Expect New Flash at 103764 ms
+Begin Flash at 103774 ms
+End Flash at 103891 ms
+Expect New Flash at 104230 ms
+Begin Flash at 104239 ms
+End Flash at 104356 ms
+Expect New Flash at 105333 ms
+Begin Flash at 105336 ms
+End Flash at 105441 ms
+Expect New Flash at 106058 ms
+Begin Flash at 106090 ms
+End Repetion
+
+
+End Flash at 106210 ms
+Expect New Flash at 106911 ms
+Start Repetition 10 at 110208 ms
+Begin Flash at 110208 ms
+End Flash at 110313 ms
+Expect New Flash at 111014 ms
+Begin Flash at 111039 ms
+End Flash at 111155 ms
+Expect New Flash at 111215 ms
+Begin Flash at 111226 ms
+End Flash at 111340 ms
+Expect New Flash at 111616 ms
+Begin Flash at 111622 ms
+End Flash at 111739 ms
+Expect New Flash at 111885 ms
+Begin Flash at 111889 ms
+End Flash at 112007 ms
+Expect New Flash at 112150 ms
+Begin Flash at 112157 ms
+End Flash at 112270 ms
+Expect New Flash at 112341 ms
+Begin Flash at 112357 ms
+End Flash at 112469 ms
+Expect New Flash at 112557 ms
+Begin Flash at 112573 ms
+End Flash at 112689 ms
+Expect New Flash at 113056 ms
+Begin Flash at 113061 ms
+End Flash at 113174 ms
+Expect New Flash at 113224 ms
+Begin Flash at 113258 ms
+End Flash at 113372 ms
+Expect New Flash at 113897 ms
+Begin Flash at 113911 ms
+End Flash at 114022 ms
+Expect New Flash at 114222 ms
+Begin Flash at 114240 ms
+End Repetion
+
+
+End Flash at 114356 ms
+Expect New Flash at 115295 ms
+Start Repetition 11 at 118360 ms
+Begin Flash at 118372 ms
+End Flash at 118479 ms
+Expect New Flash at 119418 ms
+Begin Flash at 119426 ms
+End Flash at 119542 ms
+Expect New Flash at 119676 ms
+Begin Flash at 119708 ms
+End Flash at 119823 ms
+Expect New Flash at 119941 ms
+Begin Flash at 119955 ms
+End Flash at 120073 ms
+Expect New Flash at 120177 ms
+Begin Flash at 120191 ms
+End Flash at 120306 ms
+Expect New Flash at 120398 ms
+Begin Flash at 120408 ms
+End Flash at 120523 ms
+Expect New Flash at 120606 ms
+Begin Flash at 120623 ms
+End Flash at 120738 ms
+Expect New Flash at 120812 ms
+Begin Flash at 120821 ms
+End Flash at 120938 ms
+Expect New Flash at 121005 ms
+Begin Flash at 121025 ms
+End Flash at 121137 ms
+Expect New Flash at 121198 ms
+Begin Flash at 121208 ms
+End Flash at 121321 ms
+Expect New Flash at 121377 ms
+Begin Flash at 121378 ms
+End Flash at 121493 ms
+Expect New Flash at 121544 ms
+Begin Flash at 121583 ms
+End Repetion
+
+
+End Flash at 121689 ms
+Expect New Flash at 121772 ms
+Start Repetition 12 at 125691 ms
+Begin Flash at 125703 ms
+End Flash at 125831 ms
+Expect New Flash at 125914 ms
+Begin Flash at 125912 ms
+End Flash at 126025 ms
+Expect New Flash at 126813 ms
+Begin Flash at 126849 ms
+End Flash at 126957 ms
+Expect New Flash at 127454 ms
+Begin Flash at 127457 ms
+End Flash at 127572 ms
+Expect New Flash at 127939 ms
+Begin Flash at 127958 ms
+End Flash at 128080 ms
+Expect New Flash at 128366 ms
+Begin Flash at 128374 ms
+End Flash at 128490 ms
+Expect New Flash at 128723 ms
+Begin Flash at 128741 ms
+End Flash at 128858 ms
+Expect New Flash at 129052 ms
+Begin Flash at 129056 ms
+End Flash at 129172 ms
+Expect New Flash at 129337 ms
+Begin Flash at 129356 ms
+End Flash at 129482 ms
+Expect New Flash at 129569 ms
+Begin Flash at 129573 ms
+End Flash at 129713 ms
+Expect New Flash at 129841 ms
+Begin Flash at 129874 ms
+End Flash at 129991 ms
+Expect New Flash at 130100 ms
+Begin Flash at 130123 ms
+End Repetion
+
+
+End Flash at 130239 ms
+Expect New Flash at 130336 ms
+Start Repetition 13 at 134243 ms
+Begin Flash at 134254 ms
+End Flash at 134372 ms
+Expect New Flash at 134469 ms
+Begin Flash at 134476 ms
+End Flash at 134589 ms
+Expect New Flash at 134847 ms
+Begin Flash at 134847 ms
+End Flash at 134987 ms
+Expect New Flash at 135046 ms
+Begin Flash at 135071 ms
+End Flash at 135196 ms
+Expect New Flash at 135316 ms
+Begin Flash at 135322 ms
+End Flash at 135436 ms
+Expect New Flash at 136092 ms
+Begin Flash at 136119 ms
+End Flash at 136222 ms
+Expect New Flash at 136953 ms
+Begin Flash at 136957 ms
+End Flash at 137070 ms
+Expect New Flash at 137549 ms
+Begin Flash at 137544 ms
+End Flash at 137658 ms
+Expect New Flash at 138013 ms
+Begin Flash at 138041 ms
+End Flash at 138154 ms
+Expect New Flash at 138433 ms
+Begin Flash at 138436 ms
+End Flash at 138557 ms
+Expect New Flash at 138786 ms
+Begin Flash at 138787 ms
+End Flash at 138903 ms
+Expect New Flash at 139095 ms
+Begin Flash at 139104 ms
+End Repetion
+
+
+End Flash at 139224 ms
+Expect New Flash at 139388 ms
+Start Repetition 14 at 143224 ms
+Begin Flash at 143235 ms
+End Flash at 143354 ms
+Expect New Flash at 143518 ms
+Begin Flash at 143523 ms
+End Flash at 143638 ms
+Expect New Flash at 144102 ms
+Begin Flash at 144105 ms
+End Flash at 144222 ms
+Expect New Flash at 144968 ms
+Begin Flash at 144988 ms
+End Flash at 145104 ms
+Expect New Flash at 145199 ms
+Begin Flash at 145193 ms
+End Flash at 145309 ms
+Expect New Flash at 145543 ms
+Begin Flash at 145571 ms
+End Flash at 145693 ms
+Expect New Flash at 146665 ms
+Begin Flash at 146672 ms
+End Flash at 146789 ms
+Expect New Flash at 147351 ms
+Begin Flash at 147361 ms
+End Flash at 147472 ms
+Expect New Flash at 147715 ms
+Begin Flash at 147722 ms
+End Flash at 147831 ms
+Expect New Flash at 148164 ms
+Begin Flash at 148159 ms
+End Flash at 148276 ms
+Expect New Flash at 148542 ms
+Begin Flash at 148573 ms
+End Flash at 148687 ms
+Expect New Flash at 148905 ms
+Begin Flash at 148908 ms
+End Repetion
+
+
+End Flash at 149024 ms
+Expect New Flash at 149208 ms
+Start Repetition 15 at 153041 ms
+Begin Flash at 153053 ms
+End Flash at 153171 ms
+Expect New Flash at 153355 ms
+Begin Flash at 153359 ms
+End Flash at 153460 ms
+Expect New Flash at 153566 ms
+Begin Flash at 153588 ms
+End Flash at 153703 ms
+Expect New Flash at 154599 ms
+Begin Flash at 154606 ms
+End Flash at 154720 ms
+Expect New Flash at 155054 ms
+Begin Flash at 155089 ms
+End Flash at 155187 ms
+Expect New Flash at 155639 ms
+Begin Flash at 155658 ms
+End Flash at 155769 ms
+Expect New Flash at 156717 ms
+Begin Flash at 156722 ms
+End Flash at 156836 ms
+Expect New Flash at 157393 ms
+Begin Flash at 157405 ms
+End Flash at 157519 ms
+Expect New Flash at 157915 ms
+Begin Flash at 157910 ms
+End Flash at 158023 ms
+Expect New Flash at 158330 ms
+Begin Flash at 158356 ms
+End Flash at 158470 ms
+Expect New Flash at 158620 ms
+Begin Flash at 158639 ms
+End Flash at 158754 ms
+Expect New Flash at 158968 ms
+Begin Flash at 158989 ms
+End Repetion
+
+
+End Flash at 159108 ms
+Expect New Flash at 159288 ms
+Start Repetition 16 at 163125 ms
+Begin Flash at 163137 ms
+End Flash at 163254 ms
+Expect New Flash at 163434 ms
+Begin Flash at 163438 ms
+End Flash at 163554 ms
+Expect New Flash at 163609 ms
+Begin Flash at 163627 ms
+End Flash at 163739 ms
+Expect New Flash at 163838 ms
+Begin Flash at 163855 ms
+End Flash at 163958 ms
+Expect New Flash at 164122 ms
+Begin Flash at 164137 ms
+End Flash at 164255 ms
+Expect New Flash at 164836 ms
+Begin Flash at 164844 ms
+End Flash at 164957 ms
+Expect New Flash at 165741 ms
+Begin Flash at 165771 ms
+End Flash at 165887 ms
+Expect New Flash at 166797 ms
+Begin Flash at 166808 ms
+End Flash at 166921 ms
+Expect New Flash at 167466 ms
+Begin Flash at 167470 ms
+End Flash at 167587 ms
+Expect New Flash at 167977 ms
+Begin Flash at 167

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4870C32F-542F-4F4D-AB6F-3EA93CF7EAE2}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>BrainInvaders</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>C:\Work\openvibe-0.13.1-svn3210-src\dependencies\gtk;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\boost\include;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\freealut\include;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\openal\include;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\cegui\cegui\include;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\vrpn\include;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\ogre\include\OIS;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\ogre\include\OGRE;C:\Work\openvibe-0.13.1-svn3210-src\openvibe-modules\system\trunc\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Work\openvibe-0.13.1-svn3210-src\dependencies\cegui\lib\ReleaseWithSymbols;C:\Work\openvibe-0.13.1-svn3210-src\openvibe-modules\system\trunc\lib;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\cegui\lib;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\vrpn\lib;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\ogre\lib\release;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\freealut\lib;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\openal\libs\Win32;C:\Work\openvibe-0.13.1-svn3210-src\dependencies\boost\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>..\..\..\..\..\..\..\SourceCode\openvibe-0.13.1-svn3210-src\dist\bin</OutDir>
+    <TargetName>OpenViBE-vr-demo-dynamic</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;OVA_OS_Windows;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>libboost_thread-vc100-mt-gd-1_42.lib;OgreMain.lib;CEGUIBase.lib;vrpn.lib;OIS.lib;CEGUIOgreRenderer.lib;OpenViBE-module-System-dynamic.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ovaCAbstractVrpnPeripheral.h" />
+    <ClInclude Include="ovavrdCOgreVRApplication.h" />
+    <ClInclude Include="ova_defines.h" />
+    <ClInclude Include="OVComm.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SpaceInvadersBCI\Alien.h" />
+    <ClInclude Include="SpaceInvadersBCI\AlienBlock.h" />
+    <ClInclude Include="SpaceInvadersBCI\GameScreen.h" />
+    <ClInclude Include="SpaceInvadersBCI\GUIScreen.h" />
+    <ClInclude Include="SpaceInvadersBCI\CSpaceInvadersBCI.h" />
+    <ClInclude Include="SpaceInvadersBCI\ProgressBar.h" />
+    <ClInclude Include="SpaceInvadersBCI\SoundManager.h" />
+    <ClInclude Include="SpaceInvadersBCI\SpaceInvadersScreen.h" />
+    <ClInclude Include="SpaceInvadersBCI\WinLooseScreen.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Brain Invaders.cpp" />
+    <ClCompile Include="ovaCAbstractVrpnPeripheral.cpp" />
+    <ClCompile Include="ovavrdCOgreVRApplication.cpp" />
+    <ClCompile Include="OVComm.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\Alien.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\AlienBlock.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\GameScreen.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\GUIScreen.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\CSpaceInvadersBCI.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\ProgressBar.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\SoundManager.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\SpaceInvadersScreen.cpp" />
+    <ClCompile Include="SpaceInvadersBCI\WinLooseScreen.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinystr.cpp" />
+    <ClCompile Include="tinyxml\tinyxml.cpp" />
+    <ClCompile Include="tinyxml\tinyxmlerror.cpp" />
+    <ClCompile Include="tinyxml\tinyxmlparser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Brain Invaders.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

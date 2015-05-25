@@ -1,0 +1,54 @@
+*flash duration (ms)
+50
+*ISI duration (ms)
+200
+*black screen before target duration (ms)
+1000
+*target display duration (ms)
+1000
+*destroyed alien display duration (ms)
+1000
+*hidden alien display duration (ms)
+1000
+*duration before next repetition (ms)
+2000
+*Alien speed:
+0.1
+*mValeurOutPort1
+64
+*Training Target Count
+10
+*Expe Bloc Count
+1
+*Expe Target Count
+1
+*Expe Repetition Count Max
+5
+*UserName
+myName_01
+*ScoreTextBoxPosX
+300
+*ScoreTextBoxPosY
+300
+*PointsTextBoxPosX
+300
+*PointsTextBoxPosY
+200
+*EOFTextBoxPosX
+300
+*EOFTextBoxPosY
+250
+*CountDownTextBoxPosX
+300
+*CountDownTextBoxPosY
+250
+*m_iHighScoreTextBoxPosX
+300
+*m_iHighScoreTextBoxPosY
+250
+*m_iFlashShuffle
+0
+*m_iRandomFlashTimeOffset
+0
+*parallel port messages length (ms)
+100
